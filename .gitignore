@@ -1,1 +1,4 @@
 Testing/
+__pycache__/
+precios.json
+config.txt
